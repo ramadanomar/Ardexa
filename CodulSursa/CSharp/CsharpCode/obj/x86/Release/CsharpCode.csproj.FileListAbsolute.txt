@@ -1,0 +1,8 @@
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\bin\Release\CsharpCode.exe
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\bin\Release\CsharpCode.pdb
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.Form1.resources
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.Properties.Resources.resources
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.csproj.GenerateResource.cache
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.csproj.CoreCompileInputs.cache
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.exe
+G:\Liceu\Ardexa\cod\CSharp\CsharpCode\obj\x86\Release\CsharpCode.pdb
